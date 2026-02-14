@@ -39,11 +39,11 @@ The objective of this lab is to understand how AWS Identity and Access Managemen
     
 **Screenshot:**
 
-<img width="1920" height="1200" alt="Screenshot (238)" src="https://github.com/user-attachments/assets/01c241ad-1be7-47ca-9f71-4acff9bcd6b9" />
+<img width="1590" height="904" alt="Screenshot 2026-02-14 184837" src="https://github.com/user-attachments/assets/8646f356-58a6-46df-a7b4-4f80255374ce" />
 
-<img width="1920" height="1200" alt="Screenshot (239)" src="https://github.com/user-attachments/assets/e9a4eddd-e6f8-4384-883d-36f6ae28f793" />
+<img width="1597" height="906" alt="Screenshot 2026-02-14 184930" src="https://github.com/user-attachments/assets/97fdc304-4880-49ce-96c1-af71403cc35a" />
 
-<img width="1920" height="1200" alt="Screenshot (240)" src="https://github.com/user-attachments/assets/d7daea77-e55d-4c33-9bc9-0593567ac16e" />
+<img width="1595" height="912" alt="Screenshot 2026-02-14 184945" src="https://github.com/user-attachments/assets/3d4af02b-65bb-4d85-aedf-5296f92d4853" />
 
 
 
@@ -54,8 +54,7 @@ The objective of this lab is to understand how AWS Identity and Access Managemen
 - Verified EC2 administrative access for user-3
   
 **Screenshot:**
-  
-<img width="1920" height="1200" alt="Screenshot (241)" src="https://github.com/user-attachments/assets/e1f0387a-a68f-4366-b728-090e0e6db850" />
+ <img width="1588" height="902" alt="Screenshot 2026-02-14 184957" src="https://github.com/user-attachments/assets/6267a5b4-df58-46fb-962d-eaf7249080e6" />
 
 
 
