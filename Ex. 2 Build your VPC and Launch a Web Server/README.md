@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**:TRISHA PRIYADARSHNI PARIDA
+* **Register Number**: 212224230293
+* **Date of Submission**: 14-02-2026
 
 ---
 
